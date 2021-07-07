@@ -16,7 +16,7 @@ the lead will be placed in the finished column.
 - If the `primary lead's job type` date of installation is provided, the lead will be placed under the `Scheduled` Column.
 - Any lead that doesn't have the above checks and is marked as SOLD, it will appear in the `New Sales` Column.
 
-![Scheduling Dashboard screenshot](/scheduling/images/scheduling-dashboard.png?raw=true "Scheduling Dashboard")
+![Scheduling Dashboard screenshot](../../scheduling/images/scheduling-dashboard.png?raw=true "Scheduling Dashboard")
 
 
 ##### List of the Column Names.
@@ -38,7 +38,7 @@ the lead will be placed in the finished column.
      Footage/Number of sheets/Units and `Actions that allow for addition of Concerns and printing of work orders` for
      every active job type.
      
-     ![Basic Info Tab screenshot](/scheduling/images/basic-info-tab-scheduling.png?raw=true "Basic Info Tab")
+     ![Basic Info Tab screenshot](../../scheduling/images/basic-info-tab-scheduling.png?raw=true "Basic Info Tab")
  
 2. **Schedule Tab**.
     * This tab lists all job types that production can schedule for the lead, it allows production to turn on jobs that
@@ -49,12 +49,12 @@ the lead will be placed in the finished column.
         * Adding estimate durations to complete a job.
         * Update actions that include `Canceling` and `Completing` individual jobs.
 
-   ![Schedule Tab screenshot](/scheduling/images/schedule-tab-scheduling.png?raw=true "Schedule Tab")
+   ![Schedule Tab screenshot](../../scheduling/images/schedule-tab-scheduling.png?raw=true "Schedule Tab")
 
 3. **Comments Tab**.
     * This tab shows comments added to lead as well as allows users to add their own comments on the lead.
 
-   ![Comments Tab screenshot](/common/images/comments-screenshot.png?raw=true "Comments Tab")
+   ![Comments Tab screenshot](../../common/images/comments-screenshot.png?raw=true "Comments Tab")
 
 4. **Files Tab**.
     * This tab allows users to upload individual files for a lead.
@@ -66,7 +66,7 @@ the lead will be placed in the finished column.
     - Click the upload files button to upload the files to the server.
     - Then click the `Save button` in the right bottom corner of the tab to persistently save your changes.
 
-    ![Files Tab screenshot](/common/images/files-tab-screenshot.png?raw=true "Files Tab")
+    ![Files Tab screenshot](../../common/images/files-tab-screenshot.png?raw=true "Files Tab")
 
 ###### Notes
 * _The Scheduling Dashboard can only be viewed by users Admin or Production level users (users with the role of

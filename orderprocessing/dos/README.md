@@ -3,7 +3,7 @@
 The DOS page shows all production completed jobs.
 Any job that is completed by production from the leads will appear on the DOS page basing on the date of its completion.
 
-![DOS page screenshot](/orderprocessing/images/dos-page-op.png?raw=true "DOS page")
+![DOS page screenshot](../../orderprocessing/images/dos-page-op.png?raw=true "DOS page")
 
 #### Colors for the cards in the DOS page.
 * Yellow: This indicates that the total dollars for the given date (column) in which the cards are is 0.

@@ -2,7 +2,7 @@
 
 The customers page under production only lists customers that were marked as SOLD by confirmation.
 
-![Customer page](/frontdesk/images/front-desk-leads-pg.png?raw=true "Sold Customer")
+![Customer page](../../frontdesk/images/front-desk-leads-pg.png?raw=true "Sold Customer")
 
 This page is share by the front-desk as well, however, there are a few functionalities that are available for production
 that the front desk will not be able to see. These include.
@@ -12,7 +12,7 @@ production dashboard.
   * When scheduling a customer from the customer's page, please fill in the customer concern, and the required fields which
   include (`Date`, `Duration`), if these fields are left unfilled, an error will be thrown.
   * The basic customer information will be auto filled so no worries about filling that in.
-![Customer page](/production/images/customer-schedule-form.png?raw=true "Sold Customer")
+![Customer page](../../production/images/customer-schedule-form.png?raw=true "Sold Customer")
 
 
 ###### Notes

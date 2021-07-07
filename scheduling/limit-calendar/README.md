@@ -10,12 +10,12 @@ There are three calendar tabs on this page.
 1. **Ez Breathe/ StableWall**. This calendar shows and captures the number of job types for ezBreathe and stable wall
 that production crews will be able to work on. [`job-type against direction`]
 
-![Ez Breathe/ StableWall calendar page](/scheduling/images/ezbreathe-stablwall-page.png?raw=true "On Calls list")
+![Ez Breathe/ StableWall calendar page](../../scheduling/images/ezbreathe-stablwall-page.png?raw=true "On Calls list")
 
 2. **Waterproofing**. This calendar shows and captures the number units for waterproofing that production crews will be 
    able to work on. [`footage units against direction`]
 
-![Ez Breathe/ StableWall calendar page](/scheduling/images/waterproofing-rebuild-page.png?raw=true "On Calls list")
+![Ez Breathe/ StableWall calendar page](../../scheduling/images/waterproofing-rebuild-page.png?raw=true "On Calls list")
 
 3. **Rebuild**. This calendar is similar to the Waterproofing job type, kindly read above for more information.
 
@@ -24,7 +24,7 @@ that production crews will be able to work on. [`job-type against direction`]
 - Click on the empty time slot right on the calendar, and it will pop up a form. fill in all the direction and footage
 units available for the unit and direction or _provide a zero for unit ranges and directions with no available crews_
 
-![Ez Breathe/ StableWall calendar page](/scheduling/images/new-limit-form-screenshot.png?raw=true "On Calls list")
+![Ez Breathe/ StableWall calendar page](../../scheduling/images/new-limit-form-screenshot.png?raw=true "On Calls list")
 
 
 ###### Note

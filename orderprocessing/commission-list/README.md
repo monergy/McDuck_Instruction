@@ -5,7 +5,7 @@ yet approved by an order-processoring user (FRANK for now)`.
 Once an order processor (**FRANK**) approves their commission, then they appear in the commission ledger list ready for 
 payment.
 
-![Commission list screenshot](/orderprocessing/images/commission-list-op.png?raw=true "Commission List")
+![Commission list screenshot](../../orderprocessing/images/commission-list-op.png?raw=true "Commission List")
 
 #### Extra functionality on the page.
 
@@ -14,7 +14,7 @@ payment.
 - Click the `Prepare Report` button to fetch and prepare the report.
 - Then click the Create Report button to print the report.
 
-![Prepare Report Form screenshot](/orderprocessing/images/prepair-commission-report-op.png?raw=true "Prepare Report Form")
+![Prepare Report Form screenshot](../../orderprocessing/images/prepair-commission-report-op.png?raw=true "Prepare Report Form")
 
 #### Activity Logs section
 This section lists all the previously checked in leads.

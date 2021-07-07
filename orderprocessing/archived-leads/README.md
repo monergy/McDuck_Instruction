@@ -3,7 +3,7 @@
 This is a list of all archived lead projects by order processing.
 A user can unarchived any lead from this list, and it will re-appear on the order-processing dashboard.
 
-![Archived Leads](/orderprocessing/images/archived-list-page-op.png?raw=true "Archived Leads")
+![Archived Leads](../../orderprocessing/images/archived-list-page-op.png?raw=true "Archived Leads")
 
 ###### Notes
 * _This page is only accessed by order-processing or Admin based users (Users with roles of OrderProcessing or Admin)._

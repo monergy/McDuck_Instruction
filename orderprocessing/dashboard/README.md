@@ -24,7 +24,7 @@ dashboard columns`.
 3. **Comments Tab**.
     * This tab shows comments added to lead as well as allows users to add their own comments on the lead.
 
-   ![Comments Tab screenshot](/common/images/comments-screenshot.png?raw=true "Comments Tab")
+   ![Comments Tab screenshot](../../common/images/comments-screenshot.png?raw=true "Comments Tab")
 
 4. **Files Tab**.
     * This tab allows users to upload individual files for a lead.
@@ -36,7 +36,7 @@ dashboard columns`.
     - Click the upload files button to upload the files to the server.
     - Then click the `Save button` in the right bottom corner of the tab to persistently save your changes.
 
-   ![Files Tab screenshot](/common/images/files-tab-screenshot.png?raw=true "Files Tab")
+   ![Files Tab screenshot](../../common/images/files-tab-screenshot.png?raw=true "Files Tab")
 
 ###### Notes
 * _The Scheduling Dashboard can only be viewed by users Admin or Production level users (users with the role of

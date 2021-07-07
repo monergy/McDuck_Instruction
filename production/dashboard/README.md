@@ -3,7 +3,7 @@
 The production Dashboard is a tab calendar that lists and handles 4 calendars.
 **Service calendar, Service Inspector Calendar Supervisor calendar, and Electrician calendar.**
 
-![Customer page](/production/images/schedule-service-calendar.png?raw=true "Sold Customer")
+![Customer page](../../production/images/schedule-service-calendar.png?raw=true "Sold Customer")
 
 All these four calendars
 have the same layout and pretty much the same functionality as listed below.
@@ -19,7 +19,7 @@ have the same layout and pretty much the same functionality as listed below.
         1. Add or change a color for the schedule.
         2. Changing the _appointment time_ (`Date`), _Arrival Time_, _Crew_, and the _Note_.
            
-        ![Customer page](/production/images/edit-screen-service-schedule.png?raw=true "Sold Customer")
+        ![Customer page](../../production/images/edit-screen-service-schedule.png?raw=true "Sold Customer")
 
 ###### Note
 * _These calendars are weekly-based._

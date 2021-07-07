@@ -4,7 +4,7 @@ The customers/front-desk page only lists customers that were marked as SOLD by c
 This page is share by the production as well, however, there are a few functionalities that are available for production
 that the front desk will not be able to see.
 
-![Customer page](/frontdesk/images/front-desk-leads-pg.png?raw=true "Sold Customer")
+![Customer page](../../frontdesk/images/front-desk-leads-pg.png?raw=true "Sold Customer")
 
 ###### Notes
 * _this page has project statuses, and they are derived from whether a project is a dead deal, reject, canceled, in alert

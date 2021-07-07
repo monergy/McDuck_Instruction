@@ -2,7 +2,7 @@
 
 The invoices list page lists all invoices that have been created for customers before.
 
-![Invoices list screenshot](/orderprocessing/images/invoices-list-page-op.png?raw=true "Invoices List")
+![Invoices list screenshot](../../orderprocessing/images/invoices-list-page-op.png?raw=true "Invoices List")
 
 #### Last invoice column buttons.
 - Archived. This indicates that the invoices belong to a lead that has been archived or marked as a dead deal.

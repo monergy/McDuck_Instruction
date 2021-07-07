@@ -58,5 +58,4 @@ You're always welcome to dive into more details on any specific page if you like
   * Host [Digital Ocean](https://docs.digitalocean.com/)
 * Credits
   * [Contributors](/credits/README.md)
-* ~~Legal~~
-  * [Intellectual Property](/legal/intellectual-property/README.md)
+  

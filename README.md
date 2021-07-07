@@ -26,8 +26,8 @@ You're always welcome to dive into more details on any specific page if you like
   * [Dashboard](/orderprocessing/dashboard/README.md)
   * [Commission Dashboard](/orderprocessing/commission-dashboard/README.md)
   * [Commission List](/orderprocessing/commission-list/README.md)
-  * [Commissions Ledger](/orderprocessing/code-review/README.md)
-  * [Invoices List](/orderprocessing/performance-review/README.md)
+  * [Commissions Ledger](/orderprocessing/commissions-ledger/README.md)
+  * [Invoices List](/orderprocessing/invoices-list/README.md)
   * [Payments List](/orderprocessing/payments-list/README.md)
   * [Archived Leads](/orderprocessing/archived-leads/README.md)
   * [DOS](/orderprocessing/dos/README.md)
@@ -35,8 +35,8 @@ You're always welcome to dive into more details on any specific page if you like
 * **_Scheduling_**
   * [Dashboard](/scheduling/dashboard/README.md)
   * [Permit Setting](/scheduling/permit-setting/README.md)
-  * [Dispatch Board](/scheduling/permit-setting/README.md)
-  * [City Directions](/scheduling/permit-setting/README.md)
+  * [Dispatch Board](/scheduling/dispatch-board/README.md)
+  * [City Directions](/scheduling/city-direction/README.md)
   * [On Call](/scheduling/on-call/README.md)
   * [Limit Calendar](/scheduling/limit-calendar/README.md)
 * **_Production_**

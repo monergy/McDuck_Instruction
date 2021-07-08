@@ -7,7 +7,7 @@ There are four types of calendars that are visible for the Unassigned calendars.
 This calendar is plotted days against time, and it used to list all the unassigned jobs on the Ez breathe, service,
    electrical and reinstatement tabs.
 
-![Day against time calendar screenshot](/scheduling/images/dispatch-board-time-against-days.png?raw=true "Day against time calendar")
+![Day against time calendar screenshot](../../scheduling/images/dispatch-board-time-against-days.png?raw=true "Day against time calendar")
 
 2. Directions against days `Monday - Saturday`.
    This calendar is plotted directions against days, and it used to list all the unassigned jobs on the waterproofing,

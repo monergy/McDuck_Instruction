@@ -68,6 +68,15 @@ the lead will be placed in the finished column.
 
     ![Files Tab screenshot](../../common/images/files-tab-screenshot.png?raw=true "Files Tab")
 
+
+#### Background colors for the cards.
+
+- _Red_: A card has been marked as a dead deal from the finance tab.
+- _Green_: The card has been marked as complete by the scheduling dpt.
+- _Red border_: The card has a permits in its city.
+- _White_: This is the default background color for all cards.
+
+
 ###### Notes
 * _The Scheduling Dashboard can only be viewed by users Admin or Production level users (users with the role of
   Production/Admin)_

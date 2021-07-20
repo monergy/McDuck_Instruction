@@ -9,6 +9,18 @@ given a data range (`Start and End date`).
 
 ![Export customers form screenshot](../../orderprocessing/images/export-customer-data-form-all-cust-page.png?raw=true "Export customers form")
 
+### Exported customer CSV data. 
+##### CSV: Field notes (How certain fields are determined and/or calculated).
+* Calculation of LEADs/SITs/OUTs and SALEs in the exported customer data CSV file.
+  - _the calculation below are automated and calculated in the backend of the application._
+  > 1. When a lead (customer) has no selected status is from confirmation, there this will be counted as a [**LEAD**].
+  > 2. When confirmation selects the lead (customer)'s status to be either `UNAVAILABLE` or `NE`, the lead will be counted 
+  as both a [**LEAD** and **OUT**].
+  > 3. When confirmation selects the lead (customer)'s status to be either `NS`, `PDNS` or `DNS`,  the lead will be
+  counted as both a [**LEAD**, **OUT** and **SIT**].
+  > 3. When confirmation selects the lead (customer)'s status to be either `SOLD`,  the lead will be counted as both a
+  [**LEAD**, **OUT**, **SIT** and **SALE**].
+
 ###### Notes
 * _This page has project statuses, and they are derived from project statuses selected by confirmation as a result of 
   running the lead_
